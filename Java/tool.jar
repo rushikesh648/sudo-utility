@@ -1,0 +1,1 @@
+jar cvfm SudoExecutor.jar Manifest.txt SudoCommandExecutor.class
