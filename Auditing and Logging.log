@@ -1,0 +1,3 @@
+[PATH]
+/var/log/secure //Red Hat/CentOS/Fedora
+/var/log/auth.log //Debian/Ubuntu
